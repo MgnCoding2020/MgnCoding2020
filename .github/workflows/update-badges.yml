@@ -1,8 +1,8 @@
 name: Update Badges
 on:
   schedule:
-    - cron: "0 2 * * *" # Updates daily at 2 AM
-  workflow_dispatch: # Allows manual trigger
+    - cron: "0 2 * * *"
+  workflow_dispatch:
 
 jobs:
   update-badges:
@@ -11,8 +11,10 @@ jobs:
       contents: write
     steps:
       - uses: actions/checkout@v4
-      - name: Badge Readme Action
+
+      - name: Update Credly badges in README
         uses: pemtajo/badge-readme@main
         with:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           CREDLY_USER: michael-nault
           NUMBER_LAST_BADGES: 10
