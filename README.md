@@ -28,7 +28,19 @@ My current focus is on Governance, Risk, and Compliance (GRC), NIST RMF alignmen
 <a href="https://www.credly.com/badges/8da91d7b-3904-4c75-8837-d87f1a974983" title="CompTIA A+ ce Certification"><img src="https://images.credly.com/size/80x80/images/f6d62c5d-1e1d-4de6-92ee-8dc8c80b1c7b/blob" alt="CompTIA A+ ce Certification" width="80" height="80"></a>
 <!--END_SECTION:badges-->
 
+## Current Focus
 
+- NIST Risk Management Framework (RMF)
+- Continuous Monitoring & Configuration Drift Detection
+- Control-to-Evidence Mapping Automation
+- Security Documentation & Reporting
+- Detection Engineering Fundamentals
+
+## Education
+
+Bachelor of Science — Cybersecurity and Information Assurance  
+Western Governors University (WGU)  
+~50% Complete
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MgnCoding2020&color=blue" />
