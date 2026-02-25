@@ -2,7 +2,21 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=2E9FFF&center=true&vCenter=true&width=800&lines=Michael+Nault;Cybersecurity+%7C+GRC+%7C+RMF;Personal+Endpoint+Intelligence+Developer" />
 </p>
 
-## Hi there 👋
+## About Me
+
+As I began my Bachelor of Science in Cybersecurity and Information Assurance in 2024, my initial interest was in offensive security. However, as I progressed through A+, Network+, and Security+, I discovered that my real interest lies in the governance, security architecture, and structured protection of systems rather than exploitation.
+
+I began by hardening my own environment:
+
+- Implemented separate administrative and standard user accounts
+- Removed and disabled unnecessary applications and services
+- Applied deny-by-default firewall principles
+- Studied and evaluated allowlisting strategies
+- Established baseline system configurations for drift detection
+
+From there, I focused on building tools that continuously assess system posture. I developed baseline-comparison workflows that allow scheduled scans to detect configuration drift, reinforcing core principles of configuration management and continuous monitoring.
+
+My current focus is on Governance, Risk, and Compliance (GRC), NIST RMF alignment, and building structured, evidence-driven security tooling.
 
 
 <!--START_SECTION:badges-->
