@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=2E9FFF&center=true&vCenter=true&width=800&lines=Michael+Nault;Cybersecurity+%7C+GRC+%7C+RMF;Personal+Endpoint+Intelligence+Developer" />
+</p>
+
 ## Hi there 👋
 
 
@@ -9,3 +13,12 @@
 <a href="https://www.credly.com/badges/68d9d2a0-687e-477d-b4ef-c6d05a6d9fe2" title="CompTIA Network+ ce Certification"><img src="https://images.credly.com/size/80x80/images/c70ba73e-3c8a-46fa-9d60-4a9af94ad662/blob" alt="CompTIA Network+ ce Certification" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/8da91d7b-3904-4c75-8837-d87f1a974983" title="CompTIA A+ ce Certification"><img src="https://images.credly.com/size/80x80/images/f6d62c5d-1e1d-4de6-92ee-8dc8c80b1c7b/blob" alt="CompTIA A+ ce Certification" width="80" height="80"></a>
 <!--END_SECTION:badges-->
+
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MgnCoding2020&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MgnCoding2020&color=blue" />
+</p>
