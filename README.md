@@ -15,9 +15,6 @@
 <!--END_SECTION:badges-->
 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MgnCoding2020&show_icons=true&hide_title=true&cache_seconds=86400" />
-</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MgnCoding2020&color=blue" />
