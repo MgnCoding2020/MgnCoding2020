@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 
-<!-- START_SECTION:badges -->
-<!-- END_SECTION:badges -->
+ START_SECTION:badges
+ END_SECTION:badges 
 <!--
 **MgnCoding2020/MgnCoding2020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
