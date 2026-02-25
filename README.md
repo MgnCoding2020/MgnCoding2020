@@ -4,7 +4,7 @@
 
 ## About Me
 
-As I began my Bachelor of Science in Cybersecurity and Information Assurance in 2024, my initial interest was in offensive security. However, as I progressed through A+, Network+, and Security+, I discovered that my real interest lies in the governance, security architecture, and structured protection of systems rather than exploitation.
+As I began my Bachelor of Science in Cybersecurity and Information Assurance in 2024 at WGU, my initial interest was in offensive security. However, as I progressed through A+, Network+, and Security+, I discovered that my real interest lies in the governance, security architecture, and structured protection of systems rather than exploitation.
 
 I began by hardening my own environment:
 
