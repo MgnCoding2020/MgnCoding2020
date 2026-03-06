@@ -18,8 +18,8 @@ I started by hardening my own environment (separate admin accounts, removing unu
 - Building defensible security documentation  
 
 ## Featured Projects
-- **HomeEDR PowerShell Tools** — baseline snapshots, drift detection, and reporting:  
-  https://github.com/MgnCoding2020/HomeEDR-PowerShell-Tools
+- **HomeEDR and Governance Security** — baseline snapshots, drift detection, and reporting:  
+  https://github.com/MgnCoding2020/HomeEDR-and-Governance-Security
 - **GRC Paper Project (Coffee Shop)** — long-form GRC writing and structured documentation:  
   https://github.com/MgnCoding2020/grc-paper-project-coffee-shop
 
