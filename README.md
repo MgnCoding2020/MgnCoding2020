@@ -34,5 +34,5 @@ I started by hardening my own environment (separate admin accounts, removing unu
 <!--END_SECTION:badges-->
 
 ## Education
-Bachelor of Science — Cybersecurity and Information Assurance (WGU)  
-~50% complete
+Bachelor of Science — Cybersecurity and Information Assurance (WGU)    2024  - in-progress
+
