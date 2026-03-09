@@ -36,14 +36,16 @@ This work evolved into building **portfolio-style governance projects** that con
 
 # Portfolio Structure
 
-The repositories in this portfolio represent **components of a small-business security program**.
-
+The repositories in this portfolio represent **components of a small-business security program**, and the Technical Governance lab was/is an EDR project I was previously working on, now slowly transitioning to its own standalone GRC project (name to be updated).
 ```
-Security Governance Portfolio
+Cybersecurity Governance Portfolio
 │
-├── Security Program (Coffee Shop Scenario)
-├── IAM Access Review Process
-└── Endpoint Monitoring & Governance Lab
+├── Security Program Projects
+│   ├── Coffee Shop Security Program
+│   └── IAM Access Review Lab
+│
+└── Technical Governance Labs
+    └── Endpoint Monitoring & Configuration Drift Lab
 ```
 
 Each project focuses on a different aspect of governance and risk management.
@@ -82,13 +84,16 @@ https://github.com/MgnCoding2020/IAM-Access-Review-Lab
 
 ### HomeEDR and Governance Security
 
-A personal lab exploring baseline snapshots, configuration drift detection, and reporting workflows.
 
-Focus areas include:
+This project began as a personal system-hardening and monitoring lab on my workstation.
 
-- baseline comparison  
-- configuration monitoring  
-- governance interpretation of technical signals  
+The lab focuses on:
+
+- baseline snapshots
+- configuration drift detection
+- reporting workflows
+
+While not directly tied to the coffee shop governance scenario, it helped introduce concepts of **continuous monitoring and control validation**, which are important in governance programs.
 
 Repository:  
 https://github.com/MgnCoding2020/HomeEDR-and-Governance-Security
