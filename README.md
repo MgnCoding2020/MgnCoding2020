@@ -82,21 +82,7 @@ Scheduled scripts that generate system baselines and snapshots to detect configu
 [![CompTIA A+ ce Certification](https://images.credly.com/size/80x80/images/f6d62c5d-1e1d-4de6-92ee-8dc8c80b1c7b/blob)](https://www.credly.com/badges/8da91d7b-3904-4c75-8837-d87f1a974983)
 [![ITIL® 4 Foundation Certificate in IT Service Management](https://images.credly.com/size/80x80/images/ecbfc452-1317-480b-8059-7f157d0d9f6a/ec721fda-bb43-434e-8ef8-e99f8c748ee4_cached_image_20260804-32-fy4eq6.png)](https://www.credly.com/users/michael-nault/badges)
 <!--END_SECTION:badges-->
-<!-- ITIL 4 Foundation -->
-<p align="center">
-  <a href="https://www.peoplecert.org/for-corporations/certificate-verification-service">
-    <img
-      src="https://img.shields.io/badge/ITIL%204%20Foundation-Certified-6C4CCF?style=for-the-badge"
-      alt="ITIL 4 Foundation Certified">
-  </a>
-  <br>
-  <sub>
-    Certificate No. <code>GR671893921MN</code> ·
-    <a href="./assets/certifications/itil-4-foundation-public-redacted.pdf">
-      View redacted certificate
-    </a>
-  </sub>
-</p>
+
 
 ---
 
