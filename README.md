@@ -80,6 +80,7 @@ Scheduled scripts that generate system baselines and snapshots to detect configu
 [![CompTIA IT Operations Specialist – CIOS Stackable Certification](https://images.credly.com/size/80x80/images/7f7657b9-4d1b-4b8d-b5ee-5fdf6d7ccd71/04294_CompTIA_Cert_Badges_Specialist_-_CIOS.png)](https://www.credly.com/badges/f1b55059-9b19-4f4f-b10b-fcb14de90dbd)
 [![CompTIA Network+ ce Certification](https://images.credly.com/size/80x80/images/c70ba73e-3c8a-46fa-9d60-4a9af94ad662/blob)](https://www.credly.com/badges/68d9d2a0-687e-477d-b4ef-c6d05a6d9fe2)
 [![CompTIA A+ ce Certification](https://images.credly.com/size/80x80/images/f6d62c5d-1e1d-4de6-92ee-8dc8c80b1c7b/blob)](https://www.credly.com/badges/8da91d7b-3904-4c75-8837-d87f1a974983)
+[![ITIL® 4 Foundation Certificate in IT Service Management](https://images.credly.com/size/80x80/images/ecbfc452-1317-480b-8059-7f157d0d9f6a/ec721fda-bb43-434e-8ef8-e99f8c748ee4_cached_image_20260804-32-fy4eq6.png)](https://www.credly.com/users/michael-nault/badges)
 <!--END_SECTION:badges-->
 <!-- ITIL 4 Foundation -->
 <p align="center">
